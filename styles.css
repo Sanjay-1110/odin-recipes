@@ -1,0 +1,60 @@
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: orange;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: burlywood;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  h1{
+    color:brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700px;
+    font-size: 75px;
+ }
+ .HomeHeading{
+    color:blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700px;
+ }
+
+ 
+
+ .Description{
+    color:greenyellow;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ 
+ .list{
+    color:peru;
+    font-size: 25px;
+ }
+
+ h3{
+    font-size: 50px;
+ }
+
+ .list2{
+    color: palevioletred;
+    font-size: 25px;
+ }
+ .list3{
+    color:aquamarine;
+    font-size: 25px;
+ }
